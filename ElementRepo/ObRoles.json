@@ -1,0 +1,14 @@
+
+{
+  "TestSiteUrl":"https://10.117.52.19/#/",
+  "locators": {
+    "RolesPage": {
+      "AddRole":"Add New role",
+      "CreateNewRole":"roleCreate.newRole.role.name",
+      "RoleName":"ADMIN",
+      "DescriptionBox":"roleCreate.newRole.description",
+      "Description":"Creating new role with Admin Permission"
+    }
+
+  }
+}

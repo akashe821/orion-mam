@@ -1,0 +1,29 @@
+{
+
+  "testsiteurl":"http://localhost:1337/#/settings/roles",
+
+  "locators":{
+
+    "loginpage":{
+
+      "userName":"test",
+      "password":"test"
+
+
+    }
+
+
+
+  },
+
+  "userdetails":{
+
+    "username1":"",
+    "password1":""
+
+
+  }
+
+
+
+}
